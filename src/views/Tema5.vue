@@ -66,7 +66,7 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/img19.png', alt='Trazado simétrico de líneas diagonales sobre el patrón para construir el fuelle del bolso. Incluye técnica de doblado de cartulina y transferencia de puntos para asegurar simetría perfecta.' ).m-auto
         
-        p.mb-5.espacio___movil_1 Para construir la base del bolso, trace una línea paralela a la línea inferior del frontal, a una distancia de 10 cm hacia abajo. Sobre esta nueva línea, marque un punto a 14,5 cm a cada lado del eje de simetría vertical. Desde estos puntos, traces líneas perpendiculares hacia arriba, las cuales definirán los laterales de la base, quedando así delimitada la forma y el ancho de la misma.
+        p.mb-5.espacio___movil_1 Para construir la base del bolso, trace una línea paralela a la línea inferior del frontal, a una distancia de 10 cm hacia abajo. Sobre esta nueva línea, marque un punto a 14,5 cm a cada lado del eje de simetría vertical. Desde estos puntos, traza líneas perpendiculares hacia arriba, las cuales definirán los laterales de la base, quedando así delimitada la forma y el ancho de la misma.
 
         .row.justify-content-center.mb-5
           .col-xl-10
@@ -77,7 +77,7 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/img20.png', alt='Representación gráfica de la construcción de la base del bolso, donde se ubican puntos y líneas perpendiculares a partir del eje de simetría para definir el ancho y los laterales.' ).m-auto
         
-        p.mb-5.espacio___movil_1 Desde la línea inferior del frontal, trace una línea paralela a 3 mm hacia abajo. Luego, una el punto de intersección de esta nueva línea con el borde externo del frontal hasta el punto de inicio de la base. Posteriormente, refleje esta línea en el lado opuesto para mantener la simetría del diseño. Esta diagonal se traza para dar un mejor acabado a las esquinas del bolso.
+        p.mb-5.espacio___movil_1 Desde la línea inferior del frontal, trace una línea paralela a 3 mm hacia abajo. Luego, une el punto de intersección de esta nueva línea con el borde externo del frontal hasta el punto de inicio de la base. Posteriormente, refleje esta línea en el lado opuesto para mantener la simetría del diseño. Esta diagonal se traza para dar un mejor acabado a las esquinas del bolso.
 
         .row.justify-content-center.mb-5
           .col-xl-10

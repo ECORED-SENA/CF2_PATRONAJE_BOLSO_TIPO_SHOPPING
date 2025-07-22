@@ -140,7 +140,7 @@
           span Aumentos molde frontal espaldar
         
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/img114.png', alt='Construcción del molde de frontal y espaldar a partir del recorrido del fuelle, con altura determinada desde la base del fuelle hasta su borde superior.' ).m-auto
+          img(src='@/assets/curso/temas/img114.png', alt='Patrón del frontal espaldar con aumentos estándar para costura y ensamblaje, que aseguran un acabado correcto y ajuste preciso.' ).m-auto
     
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Base
 

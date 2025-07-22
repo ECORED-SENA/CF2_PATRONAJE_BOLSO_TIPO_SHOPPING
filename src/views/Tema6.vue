@@ -68,7 +68,7 @@
               figure.mb-4.d-none.d-xl-block(data-aos="fade-left")
                 img(src='@/assets/curso/temas/img57.svg', alt="" style="max-width: 100px").m-auto
             h4.text-center.mb-4 Ancho de la chapeta
-            p.mb-0 Depende del tamaño del herraje utilizado. Los herrajes comunes son de ¾", 1" o 1¼". Para este ejemplo, se utilizará un herraje de 1 pulgada (aproximadamente 2,5 cm), por lo que el ancho de la chapeta será de 2,2 cm, ligeramente más angosta para asegurar un ajuste firme y acabado profesional.
+            p.mb-0 Depende del tamaño del herraje utilizado. Los herrajes comunes son de ¾", 1" o 1¼". Para este ejemplo, se utilizará un herraje de 1 pulgada (aproximadamente 2,5 cm), por lo que el ancho de la chapeta será de 2,2 cm, ligeramente más angosta para asegurar un ajuste firme y un acabado profesional.
     
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Ubicación en el patrón
 
@@ -481,7 +481,7 @@
               img(src='@/assets/curso/temas/img91.png', alt='Molde del terminal de cremallera, diseñado en forma de trapecio, con aumentos para doblado que permiten un acabado limpio y funcional en el extremo del cierre. ' ).m-auto
 
       .row(titulo="Forro frontal espaldar").ajuste-cajaAcordion
-        p.mb-4 Para obtener el molde del forro del frontal y espaldar, se parte del mismo patrón del molde base, pero se debe descontar una franja de 3 cm correspondientes a la boca del bolso, ya que esta parte se confecciona en el material principal.
+        p.mb-4 Para obtener el molde del forro del frontal y espaldar, se parte del mismo patrón del molde base, pero se debe descontar una franja de 3 cm correspondiente a la boca del bolso, ya que esta parte se confecciona en el material principal.
         p.mb-4 El bolsillo interno y el organizador se construyen con los mismos parámetros del modelo anterior. No obstante, el ancho y la profundidad de estos moldes puede variar según el diseño del bolso.
         p.mb-1 A este molde del forro se deben aplicar los aumentos correspondientes:
         <ul class="fa-ul estilo___i mb-4">
@@ -580,7 +580,7 @@
               img(src='@/assets/curso/temas/img99.jpg', alt='' style="max-width: 400px").m-auto
           .col-xl
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Si las piezas van a ser dobladas, el alma se obtiene a partir del molde sin incluir el aumento para doblado, ya que este no se requiere en el interior estructural.</li>
+              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Si las piezas van a ser dobladas, el alma se obtiene a partir del molde sin incluir el aumento para el doblado, ya que este no se requiere en el interior estructural.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span>En el caso de correas y chapetas al corte, como en este modelo, el alma se realiza utilizando el molde que incluye un aumento de 3 mm en el contorno, el mismo que se emplea para el corte en cuero.</li>
             </ul>
             

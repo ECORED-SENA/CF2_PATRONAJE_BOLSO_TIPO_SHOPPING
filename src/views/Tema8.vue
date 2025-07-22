@@ -148,7 +148,7 @@
         figure
           img(src="@/assets/curso/temas/img4.png" style="max-width: 60px").m-auto
       .col
-        h3 Moldes chapetas y correas
+        h3 Moldes de chapetas y correas
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
