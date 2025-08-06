@@ -1,2 +1,2 @@
 module.exports =
-  'Técnicas de patronaje y elaboración de moldes para bolsos tipo shopping'
+  'Técnicas de patronaje y elaboración de moldes para bolsos tipo Shopping'

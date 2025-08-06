@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Técnicas de patronaje y elaboración de moldes para bolsos tipo <em>shopping</em>',
+      'Técnicas de patronaje y elaboración de moldes para bolsos tipo Shopping',
     Description:
-      'El componente formativo desarrolla habilidades para diseñar y construir patrones de bolsos tipo <em><em>shopping</em></em>, aplicando técnicas de patronaje con precisión. Incluye el uso de herramientas específicas, análisis de simetría, métodos de construcción desde distintas partes del bolso y verificación mediante maqueta. Se enfoca en asegurar funcionalidad, ajuste técnico, estética y calidad del producto final.',
+      'El componente formativo desarrolla habilidades para diseñar y construir patrones de bolsos tipo Shopping, aplicando técnicas de patronaje con precisión. Incluye el uso de herramientas específicas, análisis de simetría, métodos de construcción desde distintas partes del bolso y verificación mediante maqueta. Se enfoca en asegurar funcionalidad, ajuste técnico, estética y calidad del producto final.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -60,35 +60,32 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Elaborar patrones para bolso tipo <em>shopping</em> ',
+        titulo: 'Elaborar patrones para bolso tipo Shopping ',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo:
-          'Patronaje bolso <em>shopping</em> con construcción pinza a 90°',
+        titulo: 'Patronaje bolso Shopping con construcción pinza a 90°',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
         titulo:
-          'Patronaje bolso <em>shopping</em> con construcción a partir del frontal',
+          'Patronaje bolso Shopping con construcción a partir del frontal',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo:
-          'Patronaje bolso <em>shopping</em> con construcción a partir del fuelle',
+        titulo: 'Patronaje bolso Shopping con construcción a partir del fuelle',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo:
-          'Patronaje bolso <em>shopping</em> con construcción a partir de la base',
+        titulo: 'Patronaje bolso Shopping con construcción a partir de la base',
         desarrolloContenidos: true,
       },
       {
@@ -176,7 +173,7 @@ export default {
         'abertura superior del bolso por donde se accede al interior. Puede ser abierta, con cierre o cremallera.',
     },
     {
-      termino: 'Bolso <em>shopping</em>',
+      termino: 'Bolso Shopping',
       significado:
         'bolso grande, de forma rectangular o cuadrada, con asas largas y parte superior abierta o con cremallera. Está diseñado para llevar muchas cosas y es ideal para el uso diario, compras o trabajo.',
     },

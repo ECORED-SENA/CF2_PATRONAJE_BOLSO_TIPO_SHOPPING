@@ -5,16 +5,16 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Elaborar patrones para bolso tipo <em>shopping</em> 
+      h1 Elaborar patrones para bolso tipo Shopping 
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img10.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El bolso tipo <em>shopping</em> es una tipología propia de la marroquinería, caracterizada por su diseño amplio, de forma generalmente rectangular o trapezoidal, con base definida y gran capacidad de carga. A diferencia del bolso tipo Tote, que suele tener una construcción más simple con laterales planos y asas cosidas directamente al cuerpo, el <em>shopping</em> se distingue por una estructura más robusta, una mejor distribución del volumen y detalles funcionales como cierres, forros y compartimientos internos.
+        p.mb-0 El bolso tipo Shopping es una tipología propia de la marroquinería, caracterizada por su diseño amplio, de forma generalmente rectangular o trapezoidal, con base definida y gran capacidad de carga. A diferencia del bolso tipo Tote, que suele tener una construcción más simple con laterales planos y asas cosidas directamente al cuerpo, el Shopping se distingue por una estructura más robusta, una mejor distribución del volumen y detalles funcionales como cierres, forros y compartimientos internos.
 
-    p.mb-5.espacio___movil_1 Debido a estas particularidades, la elaboración de sus patrones exige el dominio de distintos <strong>métodos constructivos</strong>, los cuales permiten adaptar el diseño a los requerimientos estéticos, técnicos y funcionales del modelo. A continuación, se presentan las formas más comunes de construir un bolso tipo <em>shopping</em>:
+    p.mb-5.espacio___movil_1 Debido a estas particularidades, la elaboración de sus patrones exige el dominio de distintos <strong>métodos constructivos</strong>, los cuales permiten adaptar el diseño a los requerimientos estéticos, técnicos y funcionales del modelo. A continuación, se presentan las formas más comunes de construir un bolso tipo Shopping:
 
     .bg--img_03.mb-5.espacio___movil_1
       .row.h-100.align-items-center
@@ -39,7 +39,7 @@
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img12.png', alt='' style="max-width: 190px").m-auto
           .col-xl
-            p.mb-0 Cada uno de estos sistemas permite obtener resultados distintos en términos de forma, capacidad, estética y complejidad de confección. Este componente formativo permitirá al aprendiz diseñar, trazar y construir patrones funcionales y precisos para diversas versiones del bolso tipo <em>shopping</em>, ampliando sus competencias en diseño técnico aplicado a la marroquinería.
+            p.mb-0 Cada uno de estos sistemas permite obtener resultados distintos en términos de forma, capacidad, estética y complejidad de confección. Este componente formativo permitirá al aprendiz diseñar, trazar y construir patrones funcionales y precisos para diversas versiones del bolso tipo Shopping, ampliando sus competencias en diseño técnico aplicado a la marroquinería.
 
 </template>
 

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 7
-      h1 Patronaje bolso <em>shopping</em> con construcción a partir del fuelle
+      h1 Patronaje bolso Shopping con construcción a partir del fuelle
     
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
@@ -43,7 +43,7 @@
       .col-xl-6
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 36.
-          span Molde patrón bolso <em>shopping</em> construcción a partir del fuelle
+          span Molde patrón bolso Shopping construcción a partir del fuelle
         
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img106.png', alt='Molde patrón de bolso construido a partir del fuelle, con ejes de simetría y medidas proporcionales. Esta pieza guía la elaboración de las demás secciones del bolso. ' ).m-auto

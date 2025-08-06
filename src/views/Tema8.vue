@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 8
-      h1 Patronaje bolso <em>shopping</em> con construcción a partir de la base
+      h1 Patronaje bolso Shopping con construcción a partir de la base
     
     .row.align-items-center.mb-5
       .col-xl
-        p La construcción de un bolso tipo <em>shopping</em> a partir de la base se realiza tomando esta pieza como referencia principal para desarrollar el resto del patrón. Este método parte del molde de la base, que define las dimensiones y proporciones fundamentales del bolso. A partir de esta pieza, se diseñan y ajustan los moldes del fuelle, el frontal y el espaldar, asegurando que todas las partes encajen correctamente y mantengan la estructura deseada.
+        p La construcción de un bolso tipo Shopping a partir de la base se realiza tomando esta pieza como referencia principal para desarrollar el resto del patrón. Este método parte del molde de la base, que define las dimensiones y proporciones fundamentales del bolso. A partir de esta pieza, se diseñan y ajustan los moldes del fuelle, el frontal y el espaldar, asegurando que todas las partes encajen correctamente y mantengan la estructura deseada.
         p.mb-3.style___box_11(data-aos="fade-right") La base actúa como punto de partida para trazar los recorridos y contornos del resto de las piezas, lo que facilita un ensamblaje preciso y una forma estable en el bolso terminado. Este tipo de construcción es especialmente útil para bolsos con formas curvas o volumétricas, ya que permite controlar mejor las proporciones y ajustes entre las piezas, garantizando un acabado profesional y funcional.
         p.mb-0 Además, trabajar desde la base facilita la incorporación de elementos adicionales, como cremalleras, bolsillos y refuerzos, asegurando que cada parte se integre adecuadamente en el diseño final. 
       .col-xl-auto(data-aos="fade-left")
@@ -59,7 +59,7 @@
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 43.
-          span Molde patrón bolso <em>shopping</em> construcción a partir de la base
+          span Molde patrón bolso Shopping construcción a partir de la base
         
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img125.png', alt='Molde patrón para bolso con construcción desde la base, incluye un rectángulo con esquinas curvas trazado sobre cartulina con ejes de simetría.' ).m-auto

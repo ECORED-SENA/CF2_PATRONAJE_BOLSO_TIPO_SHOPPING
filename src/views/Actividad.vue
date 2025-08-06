@@ -17,13 +17,13 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Diseño de patronaje para bolsos tipo <em>shopping</em>',
+      tema: 'Diseño de patronaje para bolsos tipo Shopping',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar los conceptos clave y técnicas empleadas en la elaboración de moldes y patrones para bolsos tipo <em>shopping</em>, según estándares técnicos y funcionales en marroquinería.',
+        '<b> Objetivo:</b> identificar los conceptos clave y técnicas empleadas en la elaboración de moldes y patrones para bolsos tipo Shopping, según estándares técnicos y funcionales en marroquinería.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -90,19 +90,19 @@ export default {
         {
           id: 3,
           texto:
-            '¿Cuál es la principal diferencia entre el bolso tipo <em>shopping</em> y el bolso tipo Tote?',
+            '¿Cuál es la principal diferencia entre el bolso tipo Shopping y el bolso tipo Tote?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El <em>shopping</em> no lleva asas.',
+              texto: 'El Shopping no lleva asas.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'El <em>shopping</em> tiene estructura más robusta y gran capacidad.',
+                'El Shopping tiene estructura más robusta y gran capacidad.',
               esCorrecta: true,
             },
             {
@@ -360,7 +360,7 @@ export default {
         {
           id: 12,
           texto:
-            'El molde base se utiliza como punto de partida en una de las variantes constructivas del bolso <em>shopping</em>.',
+            'El molde base se utiliza como punto de partida en una de las variantes constructivas del bolso Shopping.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

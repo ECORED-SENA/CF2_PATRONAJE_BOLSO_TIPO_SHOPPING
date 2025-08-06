@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 Patronaje bolso <em>shopping</em> con construcción pinza a 90°
+      h1 Patronaje bolso Shopping con construcción pinza a 90°
     
     .row.align-items-center.m-0.mb-5.style___box_8(data-aos="zoom-in")
       .col-xl
-        p.mb-0 Entre los métodos constructivos más utilizados, destaca la <strong>construcción con pinza a 90°</strong>, ideal para generar volumen en la base del bolso sin necesidad de piezas adicionales. A continuación, se presenta el proceso para desarrollar el patrón de un bolso <em>shopping</em> bajo esta técnica:
+        p.mb-0 Entre los métodos constructivos más utilizados, destaca la <strong>construcción con pinza a 90°</strong>, ideal para generar volumen en la base del bolso sin necesidad de piezas adicionales. A continuación, se presenta el proceso para desarrollar el patrón de un bolso Shopping bajo esta técnica:
       .col-xl-auto
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img13.svg', alt='' style="max-width: 295px").m-auto

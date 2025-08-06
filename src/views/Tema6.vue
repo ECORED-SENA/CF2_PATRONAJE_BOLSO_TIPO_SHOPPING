@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 6
-      h1 Patronaje bolso <em>shopping</em> con construcción a partir del frontal
+      h1 Patronaje bolso Shopping con construcción a partir del frontal
     
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img51.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En esta variante de confección del bolso <em>shopping</em>, se utiliza el frontal como patrón base. Esta elección se debe a la forma curva característica de dicha pieza, que sirve como referencia principal para el diseño. A partir del frontal, se determinan los recorridos y dimensiones tanto de la base como del fuelle, asegurando que todas las piezas encajen correctamente y mantengan la proporción y coherencia visual del bolso.
+        p.mb-0 En esta variante de confección del bolso Shopping, se utiliza el frontal como patrón base. Esta elección se debe a la forma curva característica de dicha pieza, que sirve como referencia principal para el diseño. A partir del frontal, se determinan los recorridos y dimensiones tanto de la base como del fuelle, asegurando que todas las piezas encajen correctamente y mantengan la proporción y coherencia visual del bolso.
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -38,7 +38,7 @@
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 19.
-          span Molde patrón del bolso <em>shopping</em> construcción a partir del frontal
+          span Molde patrón del bolso Shopping construcción a partir del frontal
         
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img54.png', alt='Diagrama del molde patrón para bolso con construcción a partir del frontal, que incluye contorno curvo del cuerpo principal, ejes de simetría y detalles para trazado completo de las piezas derivadas.' ).m-auto

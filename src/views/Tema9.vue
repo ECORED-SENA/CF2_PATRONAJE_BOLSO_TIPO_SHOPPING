@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img136.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La maqueta de comprobación es una herramienta fundamental en el proceso de diseño y desarrollo de bolsos tipo <em>shopping</em>, ya que permite verificar la precisión de los moldes y anticipar posibles ajustes antes de la producción final.
+        p.mb-0 La maqueta de comprobación es una herramienta fundamental en el proceso de diseño y desarrollo de bolsos tipo Shopping, ya que permite verificar la precisión de los moldes y anticipar posibles ajustes antes de la producción final.
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto

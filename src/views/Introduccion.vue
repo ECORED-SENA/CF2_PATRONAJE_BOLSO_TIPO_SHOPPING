@@ -17,7 +17,7 @@
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/intro/img1.jpg', alt='' style="max-width: 400px").m-auto
               .col-xl
-                p.mb-0 El desarrollo de productos en marroquinería, como los bolsos tipo <em>shopping</em>, requiere la aplicación de conocimientos técnicos que integran el uso de herramientas, la comprensión de moldes y la correcta elaboración de patrones. Este proceso inicia con el dominio de las herramientas empleadas en el patronaje, fundamentales para lograr trazos precisos, cortes limpios y ajustes estructurales adecuados a cada diseño.
+                p.mb-0 El desarrollo de productos en marroquinería, como los bolsos tipo Shopping, requiere la aplicación de conocimientos técnicos que integran el uso de herramientas, la comprensión de moldes y la correcta elaboración de patrones. Este proceso inicia con el dominio de las herramientas empleadas en el patronaje, fundamentales para lograr trazos precisos, cortes limpios y ajustes estructurales adecuados a cada diseño.
             p.mb-0.espacio___movil_4 El estudio de los moldes, sus conceptos, funciones y tipos, permite comprender su papel como base en la construcción de piezas. Los moldes sirven como guías para la fabricación, asegurando uniformidad y precisión en cada parte del bolso. Su clasificación y correcta aplicación son esenciales para garantizar acabados funcionales y estéticos.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
@@ -25,7 +25,7 @@
         
         .row.m-0.espacio___movil_1
           .col-xl.style___box_2(data-aos="fade-right")
-            p.mb-0 Dentro de este contexto, la elaboración de patrones para el bolso tipo <em>shopping</em> constituye una etapa clave. Este módulo aborda diferentes métodos constructivos: desde la técnica de pinza a 90°, que permite dar volumen con simples pliegues, hasta sistemas de patronaje que parten del frontal, del fuelle o de la base, brindando al aprendiz una visión integral sobre las diversas formas de construir un bolso según su diseño y funcionalidad.
+            p.mb-0 Dentro de este contexto, la elaboración de patrones para el bolso tipo Shopping constituye una etapa clave. Este módulo aborda diferentes métodos constructivos: desde la técnica de pinza a 90°, que permite dar volumen con simples pliegues, hasta sistemas de patronaje que parten del frontal, del fuelle o de la base, brindando al aprendiz una visión integral sobre las diversas formas de construir un bolso según su diseño y funcionalidad.
           .col-xl-auto(data-aos="zoom-in")
             figure.d-none.d-xl-block
               img(src='@/assets/curso/intro/img4.png', alt='' style="max-width: 295px").m-auto
