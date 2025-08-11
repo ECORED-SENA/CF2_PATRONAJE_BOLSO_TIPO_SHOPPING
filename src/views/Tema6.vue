@@ -72,7 +72,7 @@
     
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Ubicación en el patrón
 
-    p.mb-5 La ubicación vertical de las chapetas respecto al borde superior del bolso es crítica. No deben colocarse demasiado cerca del borde, ya que esto puede interferir con el paso del prénsatelas de la máquina durante la costura final, que une el forro con la boca del bolso.
+    p.mb-5 La ubicación vertical de las chapetas respecto al borde superior del bolso es crítica. No deben colocarse demasiado cerca del borde, ya que esto puede interferir con el paso del prensatelas de la máquina durante la costura final, que une el forro con la boca del bolso.
 
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -83,7 +83,7 @@
           .col-xl
             p.mb-3 Para garantizar una correcta confección:
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>La <strong>distancia mínima entre la chapeta y el borde superior</strong> debe ser de 1,5 cm, aunque esta medida puede ajustarse levemente dependiendo del ancho del prénsatelas de la máquina utilizada.</li>
+              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>La <strong>distancia mínima entre la chapeta y el borde superior</strong> debe ser de 1,5 cm, aunque esta medida puede ajustarse levemente dependiendo del ancho del prensatelas de la máquina utilizada.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span>El <strong>largo de la chapeta</strong> dependerá del diseño general del bolso.</li>
             </ul>
     

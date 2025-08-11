@@ -46,7 +46,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 c)	Verificación de ajuste
-                p.mb-0 Durante el armado se comprueba que las dimensiones sean correctas, que las piezas encajen y que los márgenes de costura y doblez sean suficientes.
+                p.mb-0 Durante el armado, se comprueba que las dimensiones sean correctas, que las piezas encajen y que los márgenes de costura y doblez sean suficientes.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img140.png', alt='' style="max-width: 500px").m-auto
@@ -54,7 +54,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 d)	Evaluación funcional
-                p.mb-0 Se evalúan la capacidad del bolso, la accesibilidad a la boca, la ubicación de bolsillos y cremalleras, y la estabilidad de la estructura.
+                p.mb-0 Se evalua la capacidad del bolso, la accesibilidad a la boca, la ubicación de bolsillos y cremalleras, y la estabilidad de la estructura.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img139.png', alt='' style="max-width: 500px").m-auto
